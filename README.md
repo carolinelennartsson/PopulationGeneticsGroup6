@@ -4,11 +4,11 @@ Group project for the course Population Genetics in University of Copenhagen, ye
 Group name: Group 6 - "Using simulations to test the signal of population size change in genetic data"
 
 Group members: 
-  - Mariadaria Kathrine Ianni-Ravn (e-mail: )
-  - Roosa Katariina Varjus (e-mail: )
+  - Mariadaria Kathrine Ianni-Ravn (e-mail: bmz576@alumni.ku.dk)
+  - Roosa Katariina Varjus (e-mail: dbn257@alumni.ku.dk)
   - Ioannis Louloudis (e-mail: ljb416@cpr.ku.dk)
   - Qing Liu (e-mail: )
-  - Caroline Linnea Elin-Lennartsson (e-mail: )
+  - Caroline Linnea Elin-Lennartsson (e-mail: hmt128@alumni.ku.dk)
 
 ## The **Script files** directory contains:
   - the main pipeline script under the name *Paprika.py*. This python script works as a wrapper script and calls:
