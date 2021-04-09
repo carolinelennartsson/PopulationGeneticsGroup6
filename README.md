@@ -7,7 +7,7 @@ Group members:
   - Mariadaria Kathrine Ianni-Ravn (e-mail: bmz576@alumni.ku.dk)
   - Roosa Katariina Varjus (e-mail: dbn257@alumni.ku.dk)
   - Ioannis Louloudis (e-mail: ljb416@cpr.ku.dk)
-  - Qing Liu (e-mail: )
+  - Qing Liu (e-mail: liu.qing@bio.ku.dk)
   - Caroline Linnea Elin-Lennartsson (e-mail: hmt128@alumni.ku.dk)
 
 ## The **Script files** directory contains:
