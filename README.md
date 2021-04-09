@@ -14,4 +14,4 @@ Group members: Mariadaria Kathrine Ianni-Ravn, Roosa Katariina Varjus, Ioannis L
 As an extra step, once Paprika.py is done running, if the user wishes to they can call an additional script called RMSE.R to estimate the RMSE values from the simulation and create the corresponding plot.
 
 ## For the simulations computed for the class assignment, eight different parameter files were created, one for each simulation.
-The parameter files can be found inside the **Parameter files** directory. They correspond to the parameter file needed by fastsimcoal2 to conduct a simulation.
+The parameter files can be found inside the **Parameter files** directory. They correspond to the parameter file needed by fastsimcoal2 to conduct a simulation. Here is brief description of the naming scheme and use case for each *.par* file:
