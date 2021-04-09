@@ -25,3 +25,6 @@ The parameter files can be found inside the **Parameter files** directory. They 
     - 1_intr_real_low.par   => A small but realistic number of individuals moved from one population to the other.
     - 2_intr_real_high.par  => A large but realistic number of individuals moved from one population to the other.
     - 3_intr_extr_high.par  => An unrealistically large amount of individuals moved from one population to the other.
+
+
+![alt text](https://github.com/GiannosLouloudis/PopulationGeneticsGroup6/blob/main/Pipeline%20scheme.png)
