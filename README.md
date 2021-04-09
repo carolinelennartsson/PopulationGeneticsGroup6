@@ -38,6 +38,7 @@ or
 ./Paprika -h
 ```
 
+A simple introduction to running the pipeline is giving the path to a parameter file, corresponding to the event we want to simulate and an integer that will represent the number of iterations we want fastsimcoal2 to run.
 ```
 ./Paprika.py -par {parameter_filename}.par -i {integer}
 ```
