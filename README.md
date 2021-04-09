@@ -15,3 +15,13 @@ As an extra step, once Paprika.py is done running, if the user wishes to they ca
 
 ## For the simulations computed for the class assignment, eight different parameter files were created, one for each simulation.
 The parameter files can be found inside the **Parameter files** directory. They correspond to the parameter file needed by fastsimcoal2 to conduct a simulation. Here is brief description of the naming scheme and use case for each *.par* file:
+  - Files the simulate continuous transfer of individuals from one population to the other:
+    - 0_cont_intr_extr_low.par  => Null file with no continuous introgression.
+    - 1_cont_intr_real_low.par  => The parameters for the introgression are realistic but on the lower end of the spectrum
+    - 2_cont_intr_real_high.par => The parameters for the introgression are realistic but on the higher end of the spectrum 
+    - 3_cont_intr_extr_high.par => The parameters describe an unrealistically intense continuous introgression event (borderline panmictic)
+  - Files the simulate a single instantaneous (in a single generation) transfer of individuals from one population to the other:
+    - 0_intr_extr_low.par   => Null file with no instantaneous introgression.
+    - 1_intr_real_low.par   => A small but realistic number of individuals moved from one population to the other.
+    - 2_intr_real_high.par  => A large but realistic number of individuals moved from one population to the other.
+    - 3_intr_extr_high.par  => An unrealistically large amount of individuals moved from one population to the other.
