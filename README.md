@@ -9,4 +9,6 @@ Group members: Mariadaria Kathrine Ianni-Ravn, Roosa Katariina Varjus, Ioannis L
     - an R script called plot_sfs.R that generates a Site Frequency Spectra plot from the observation files produced by fastsimcoal2 tool in the previous step.
     - for the 
     - the pipeline will collect the summary files created by *stairway.sh* and create the final stairway plot with plot_stairway_ggplot.R
-    - As an extra step, in the end the pipeline will use RMSE.R to estimate the RMSE values and create the corresponding plot.
+ 
+
+As an extra step, if the user wishes to they can call an additional script called RMSE.R to estimate the RMSE values from the simulation and create the corresponding plot.
