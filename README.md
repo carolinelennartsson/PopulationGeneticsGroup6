@@ -50,6 +50,8 @@ A simple introduction to running the pipeline is giving the path to a parameter 
 ./Paprika.py -par {parameter_filename}.par -i {integer}
 ```
 **Attention-1!** The way the pipeline runs in the example means that the user is in the Script file directory and runs everything from there. Also keep in mind that there will need to be a results (*Results/*) directory outside of the Scirpt file directory, where the results will be stored.
+**Attention-2!** If you want to run this pipeline in a place different than the one it was meant to run, the paths need to be updated within the files. (This "feature" is due to limited time for the development of the pipeline) 
+
 
 ## How does the pipeline work (in greater detail)?
 ![alt text](https://github.com/GiannosLouloudis/PopulationGeneticsGroup6/blob/main/Pipeline%20scheme.png)
