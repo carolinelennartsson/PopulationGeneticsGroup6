@@ -27,7 +27,22 @@ The parameter files can be found inside the **Parameter files** directory. They 
     - 3_intr_extr_high.par  => An unrealistically large amount of individuals moved from one population to the other.
 
 
-## How does the pipeline work (in greater detail)
+## Pipeline tutorial.
+
+A description of the input parameters for Paprika.py can be seen using the help option
+```
+./Paprika --help
+```
+or 
+```
+./Paprika -h
+```
+
+```
+./Paprika.py -par {parameter_filename}.par -i {integer}
+```
+
+## How does the pipeline work (in greater detail)?
 ![alt text](https://github.com/GiannosLouloudis/PopulationGeneticsGroup6/blob/main/Pipeline%20scheme.png)
 Figure 1. Schematic representation of the file creation process of the pipeline.
 
